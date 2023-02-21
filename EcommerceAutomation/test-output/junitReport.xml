@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="134.245">
+<testcase classname="To Validate the Amazon search functionality" name="To validate the cart in amazon application" time="133.459">
+<system-out><![CDATA[Given user navigate to url..................................................passed
+When User enters value in search bar and click the item.....................passed
+And user can select the product and add to cart.............................passed
+Then User verify the selected product and remove product from cart..........passed
+]]></system-out>
+</testcase>
+</testsuite>
